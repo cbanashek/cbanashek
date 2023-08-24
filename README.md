@@ -1,9 +1,14 @@
 ### Hi there 👋
 
+![alt text](https://pixabay.com/images/search/flowers/)
 
 **cbanashek/cbanashek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+| Stuff that    |is cool        |
+| ------------- |:-------------:|
+| doughnuts     | really good   |
+| flowers are   | fun           |   
+| zebra stripes | are neat      |   
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
