@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![alt text](https://pixabay.com/images/search/flowers/)
+![alt text](https://en.wikipedia.org/wiki/Flower)
 
--
+[^1]This is an example of what to use for footnotes 
 
 **cbanashek/cbanashek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
