@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](https://www.istockphoto.com/photo/image-of-public-garden-flowerbed-by-chainlink-fence-planted-with-orange-african-gm1479931026-507762493)
+![alt text](https://media.istockphoto.com/id/1479931026/photo/image-of-public-garden-flowerbed-by-chainlink-fence-planted-with-orange-african-marigolds-in.jpg?s=1024x1024&w=is&k=20&c=5WfUUpk9pNErxsk4r_ZpJQMjdtAv0kUCZVrIndUaWRs=)
 
 [^1]: This is an example of what to if you want to create footnotes
 
