@@ -2,7 +2,8 @@
 
 ![alt text](https://www.istockphoto.com/photo/image-of-public-garden-flowerbed-by-chainlink-fence-planted-with-orange-african-gm1479931026-507762493)
 
-[^1]: This is an example of what to use for footnotes 
+[^1]: This is an example of what to if you want to create footnotes
+
 
 **cbanashek/cbanashek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
