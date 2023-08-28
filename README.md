@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![alt text](https://www.elledecor.com/life-culture/fun-at-home/g42575811/spring-flowers/)
+![alt text](https://publicdomainreview.org/tags/flowers/)
 
-[^1]This is an example of what to use for footnotes 
+[^1]: This is an example of what to use for footnotes 
 
 **cbanashek/cbanashek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
